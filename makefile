@@ -3,7 +3,7 @@
 
 CC = gcc
 CFLAGS = -g -Wall
-OBJECTS = main.o
+OBJECTS = main.o mathy.o
 INCFLAGS = 
 LDFLAGS = -Wl,-rpath,/usr/local/lib
 LIBS = 
